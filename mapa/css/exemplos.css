@@ -1,3 +1,7 @@
 #map1,
 #map_cluster,
-#map_gdoc,#map_gdoc2, #map {height: 400px; width: 400px }
+#map_gdoc,#map_gdoc2, #map {height: 500px; width: 500px }
+div{
+    margin: auto;
+
+}
